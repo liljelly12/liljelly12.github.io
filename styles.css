@@ -1,0 +1,27 @@
+html{
+	width:900px;
+	background-color:mistyrose;}
+
+body {
+	background-color:pink;
+	border:double 10px palevioletred;
+	padding: 10px}
+h1{
+	color:violetred;
+	font-size:36;
+	border-bottom:dotted 3px;
+	text-align:center;}
+
+img{
+	border-radius:8px
+	border:double 3px white;}
+
+h2{
+	font-size:30;}
+p{
+	color:purple;
+	font-size:30;
+	text-align:center;
+	text-style:bold;}
+ul{ 
+	font-size:24;
